@@ -125,9 +125,8 @@ target="_blank">Click to Experience</a>
 
 1. **DIY Store Customization**
 
-<video controls width="100%" height="auto">
-  <source src="https://github.com/user-attachments/assets/22c646ec-696e-4e33-ab26-545f0ee96ee5" type="video/mp4">
-</video>
+  <video src="https://github.com/user-attachments/assets/22c646ec-696e-4e33-ab26-545f0ee96ee5" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" width="100%">
+  </video>
 
 1. **Product Detail Page**
 ![页面展示3_商品详情页](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-5.png)
