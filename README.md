@@ -1,0 +1,173 @@
+# BeikeShop - An Open Source, User-Friendly Cross-Border E-commerce System
+
+<div align="center">
+  <a href="https://beikeshop.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-1.png" alt="logo">
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-2.png" alt="logo">
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-3.png" alt="logo">
+  </a>
+</div>
+<div align="center">
+  <a href="https://beikeshop.com/download" target="_blank">
+    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-4.png" alt="logo">
+  </a>
+  <a href="https://beikeshop.com/demo" target="_blank">
+    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-5.png" alt="logo">
+  </a>
+  <a href="https://beikeshop.com/download" target="_blank">
+    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-6.png" alt="logo">
+  </a>
+</div>
+
+**Introduction to BeikeShop**
+BeikeShop is a globally leading open-source e-commerce system based on the Laravel framework, designed for the international trade and cross-border e-commerce industry.
+The system is 100% open-source! It supports a wide range of practical features, including multi-language, multi-currency, payment, logistics, and member management, making it easy for foreign trade businesses to expand their independent online stores.
+
+
+---
+
+# Framework
+
+- **Programming Language**: PHP 8.1
+- **Framework**: Laravel 10
+- **Frontend**: Blade Template + Vue.js
+
+---
+
+# Environment Requirements
+
+- **Independent Server** (Virtual hosting not supported)
+- **CentOS 7.0+** or **Ubuntu 20.04+**
+- **PHP 8.1+**
+- **MySQL 5.7+**
+- **Apache httpd 2.4+** or **Nginx 1.10+**
+
+**Required PHP Extensions**:
+- BCMath
+- Ctype
+- cURL
+- DOM
+- Fileinfo
+- JSON
+- Mbstring
+- OpenSSL
+- PCRE
+- PDO
+- Tokenizer
+- XML
+
+---
+
+# Quick start
+
+**Ⅰ. Package Installation**
+1.  <a href="https://beikeshop.cn/download" target="_blank">Download BeikeShop</a>
+2. Upload to your server and unzip.
+3. Set the `public` folder as the website root directory.
+4. Access the website through your browser and follow the installation prompts.
+5. <a href="https://docs.beikeshop.com/en/install/bt.html" target="_blank">BeikeShop Detailed Installation Guide</a>
+6. If upgrading, download the latest version and overwrite on the server (make sure to keep the original `.env` file). Then, run `php artisan migrate` in the root directory.
+
+**Ⅱ. Source Code Installation**
+1. Open the command line and clone the repository:
+    `git clone https://github.com/beikeshop/beikeshop.git`
+2. Enter the BeikeShop directory and run `composer install` to install third-party packages.
+3. Run `cp .env.example .env` to create the configuration file.
+4. Run `npm install` (Node version 16+ required), followed by `npm run prod` to compile frontend JS and CSS files.
+5. Set the `public` folder as the website root directory.
+6. Access the website through your browser and follow the installation prompts.
+7. For upgrades, run:
+    `git pull && composer install && php artisan migrate` in the root directory.
+
+**Ⅲ. Docker Installation**
+1. Install Docker and Compose locally or on the server, refer to the installation guide here: [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
+2. Execute the command: `git clone git@gitee.com:beikeshop/docker.git`
+3. Create a new directory named `www` as the website directory: `mkdir www`（See details: [https://docs.beikeshop.com/en/install/docker.html](https://docs.beikeshop.com/en/install/docker.html)）
+4. Enter the `docker` directory and create the configuration file based on the template: `cp env.example .env`
+5. Modify the `.env` file and `docker-compose` as needed, then run the command: `docker compose up -d`
+
+---
+
+# Key Features
+
+- **Zero Start-Up Cost**: BeikeShop is a true independent platform, 100% open-source, with 100% control over data.
+- **Built on Laravel 10**: Developed using the Laravel 10 framework, offering solid framework support.
+- **No Commission or Fees**: BeikeShop has no commissions, annual fees, or transaction fees, reducing the cost of setting up a website.
+- **Microkernel & Modular Design**: With a microkernel architecture and modular design, BeikeShop is easy to maintain and extend.
+- **Clear Code Structure & Format**: The system adopts a clear layered code structure with standardized formatting, improving readability and maintainability.
+- **Event System for Hook Functionality**: Flexible hook functionality is achieved through the event system, making customization and extension easier.
+- **Rich Plugin Marketplace**: A wide range of plugins are available in the official marketplace, allowing easy acquisition of required features.
+- **Multi-language and Multi-currency Support**: The system supports multiple languages and currencies, making it ideal for users across different regions and countries.
+- **Attractive Interface & Visual Customization**: BeikeShop features an attractive design with visual customization options, ensuring an excellent user experience.
+- **Strict MVC Architecture**: The system strictly follows the MVC architecture, enhancing maintainability and scalability.
+- **Easy Operation & Quick Setup**: BeikeShop is easy to operate and set up, allowing rapid deployment.
+![系统亮点](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-2.png)
+
+
+---
+
+# BeikeShop Store Preview Video
+<p>
+  <a href="https://demo.beikeshop.com/" target="_blank" style="border: 1px solid #eee; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/demo.gif" style="width: 120%;">
+</a>
+</p>
+
+<a href="https://demo.beikeshop.com/admin/login?admin_email=demo@beikeshop.com&admin_password=demo"
+target="_blank">Click to Experience</a>
+---
+
+# Page Previews
+
+1. **DIY Store Customization**
+
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video"><path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path></svg>
+    <span aria-label="Video description DIY_Edit.mp4" class="m-1">DIY_Edit.mp4</span>
+    <span class="dropdown-caret"></span>
+  </summary>
+
+  <video src="https://beikeshop.github.io/beikeshop-resource/DIY_Edit.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+  </video>
+</details>
+
+1. **Product Detail Page**
+![页面展示3_商品详情页](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-5.png)
+1. **Admin Product List**
+![页面展示4_后台商品列表](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-6.png)
+
+
+---
+
+# Related Services
+
+If you have no technical background or want to quickly launch your independent store, you can purchase our hosting services!
+
+![服务展示1_](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-8.png)
+![服务展示2_](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-9.png)
+If you want BeikeShop to meet your specific needs, we also offer 1-on-1 customization consulting services!
+![服务展示3](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-10.png)
+
+---
+# Contributing
+
+1. Fork this repository.
+2. Create a new `feature-xxx` branch.
+3. Submit your code changes.
+4. Create a Merge Request.
+---
+
+# Special Thanks
+
+- **Plugin Developers**: Lu Chuan Youth, Lao Liu, Aegis, Te̶lon̶ Uncle, Olives, etc.
+- **PR Contributors**: nilsir, what_village_head, tanxiaoyong, Lucky, So, licy, Lao Bei, Teemo, etc.
+
+We thank all contributors who participated in the development of BeikeShop, helping to make it better!
+
+---
+**Note！** Please retain our company’s copyright information. Removal requires our company’s license authorization!
