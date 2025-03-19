@@ -132,8 +132,13 @@ target="_blank">Click to Experience</a>
     <span class="dropdown-caret"></span>
   </summary>
 
-  <video src="https://beikeshop.github.io/beikeshop-resource/DIY_Edit.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+  <!-- <video src="https://beikeshop.github.io/beikeshop-resource/DIY_Edit.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+  </video> -->
+  <video src="https://private-user-images.githubusercontent.com/13230914/321643329-356df23e-1604-483d-80a6-9517ece318aa.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIzNDk3NTgsIm5iZiI6MTc0MjM0OTQ1OCwicGF0aCI6Ii8xMzIzMDkxNC8zMjE2NDMzMjktMzU2ZGYyM2UtMTYwNC00ODNkLTgwYTYtOTUxN2VjZTMxOGFhLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE5VDAxNTczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjMDczMDdkNDBlNzcwZDg2MGFjYjM2M2M3ODM1ODBkMDIyZWNkYTY3NGU3N2MwN2JmNDI4MjkzZTBiM2ViYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ax4Trw0faDVJXPmBU5O2YCUpbXejN23MQKg99hmHz3Y" data-canonical-src="https://private-user-images.githubusercontent.com/13230914/321643329-356df23e-1604-483d-80a6-9517ece318aa.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIzNDk3NTgsIm5iZiI6MTc0MjM0OTQ1OCwicGF0aCI6Ii8xMzIzMDkxNC8zMjE2NDMzMjktMzU2ZGYyM2UtMTYwNC00ODNkLTgwYTYtOTUxN2VjZTMxOGFhLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE5VDAxNTczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjMDczMDdkNDBlNzcwZDg2MGFjYjM2M2M3ODM1ODBkMDIyZWNkYTY3NGU3N2MwN2JmNDI4MjkzZTBiM2ViYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ax4Trw0faDVJXPmBU5O2YCUpbXejN23MQKg99hmHz3Y" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+
   </video>
+
+
 </details>
 
 1. **Product Detail Page**
