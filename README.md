@@ -125,10 +125,11 @@ target="_blank">Click to Experience</a>
 
 1. **DIY Store Customization**
 
-  <video src="https://private-user-images.githubusercontent.com/13230914/321643329-356df23e-1604-483d-80a6-9517ece318aa.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIzNDk3NTgsIm5iZiI6MTc0MjM0OTQ1OCwicGF0aCI6Ii8xMzIzMDkxNC8zMjE2NDMzMjktMzU2ZGYyM2UtMTYwNC00ODNkLTgwYTYtOTUxN2VjZTMxOGFhLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE5VDAxNTczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjMDczMDdkNDBlNzcwZDg2MGFjYjM2M2M3ODM1ODBkMDIyZWNkYTY3NGU3N2MwN2JmNDI4MjkzZTBiM2ViYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ax4Trw0faDVJXPmBU5O2YCUpbXejN23MQKg99hmHz3Y" data-canonical-src="https://private-user-images.githubusercontent.com/13230914/321643329-356df23e-1604-483d-80a6-9517ece318aa.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIzNDk3NTgsIm5iZiI6MTc0MjM0OTQ1OCwicGF0aCI6Ii8xMzIzMDkxNC8zMjE2NDMzMjktMzU2ZGYyM2UtMTYwNC00ODNkLTgwYTYtOTUxN2VjZTMxOGFhLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE5VDAxNTczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjMDczMDdkNDBlNzcwZDg2MGFjYjM2M2M3ODM1ODBkMDIyZWNkYTY3NGU3N2MwN2JmNDI4MjkzZTBiM2ViYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ax4Trw0faDVJXPmBU5O2YCUpbXejN23MQKg99hmHz3Y" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
-  </video>
+<video controls width="100%" height="auto">
+  <source src="https://github.com/user-attachments/assets/22c646ec-696e-4e33-ab26-545f0ee96ee5" type="video/mp4">
+</video>
 
-2. **Product Detail Page**
+1. **Product Detail Page**
 ![页面展示3_商品详情页](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-5.png)
 1. **Admin Product List**
 ![页面展示4_后台商品列表](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-6.png)
