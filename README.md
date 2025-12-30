@@ -51,11 +51,13 @@ Engineered for seamless secondary development, BeikeShop follows a **modular, ev
 
 ## 🎯 Use Cases
 
-* PHP / Laravel ecommerce projects
-* Custom online stores
-* International ecommerce
-* Open‑source ecommerce learning and development
+- PHP / Laravel ecommerce projects
+- Custom online stores
+- International ecommerce
+- Open‑source ecommerce learning and development
+
 ---
+
 ## 🌟 Why BeikeShop?
 
 - **100% Open-Source:** Full ownership of code and data.
