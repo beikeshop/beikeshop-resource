@@ -7,7 +7,7 @@
   <u><a href="#环境要求">环境要求</a></u> |
   <u><a href="#系统亮点">系统亮点</a></u> |
   <u><a href="#页面预览">页面预览</a></u>
-</p>
+</p> 
 
 <div align="center">
   <a href="https://beikeshop.com/" target="_blank"><img src="https://img.shields.io/badge/BeikeShop-%23FF6F30" alt="logo"></a>
