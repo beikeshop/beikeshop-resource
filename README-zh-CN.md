@@ -5,7 +5,7 @@
 <p align="center">
   <u><a href="#快速开始">快速开始</a></u> |
   <u><a href="#环境要求">环境要求</a></u> |
-  <u><a href="#核心特性">核心特性</a></u> |
+  <u><a href="#系统亮点">系统亮点</a></u> |
   <u><a href="#页面预览">页面预览</a></u>
 </p>
 
@@ -92,9 +92,9 @@ BeikeShop 可以通过 **安装包**、**源码** 或 **Docker** 进行安装。
 
 6. **升级**时，请覆盖文件（保留 `.env`）并运行：
 
-    ```
-    php artisan migrate
-    ```
+  ```
+  php artisan migrate
+  ```
 
 
 ### 2. 源码安装
@@ -124,18 +124,18 @@ php artisan migrate
 
 2. 克隆 Docker 环境配置：
 
-    ```
-    git clone git@gitee.com:beikeshop/docker.git
-    ```
+  ```
+  git clone git@gitee.com:beikeshop/docker.git
+  ```
 
 3. 创建网站目录：`mkdir www`
 
 4. 配置环境并启动：
 
-    ```
-    cp env.example .env
-    docker compose up -d
-    ```
+  ```
+  cp env.example .env
+  docker compose up -d
+  ```
 
 
 详细指南：https://docs.beikeshop.com/install/docker.html
@@ -144,7 +144,7 @@ php artisan migrate
 
 ## 📖 文档
 - **官方网站**：[https://www.beikeshop.com](https://www.beikeshop.com/)
-- **官方文档**：[https://docs.beikeshop.com/](https://docs.beikeshop.com/)
+- **官方文档**：[https://docs.beikeshop.com](https://docs.beikeshop.com/)
 
 ---
 
@@ -158,9 +158,9 @@ php artisan migrate
 
 ---
 
-# BeikeShop系统亮点
+# 系统亮点
 
-- - **0元起步**：BeikeShop 是真正的独立站，代码100%开源，数据信息100%自主可控
+- **0元起步**：BeikeShop 是真正的独立站，代码100%开源，数据信息100%自主可控
 - **开源开放**：100% 开源，拥有源代码和数据的绝对所有权。
 - **开箱即用**：专为快速部署设计，几分钟内即可完成从安装到商店上线。
 - **基于 Laravel 10 框架**：遵循标准的 MVC 架构和行业最佳实践。
@@ -174,6 +174,7 @@ php artisan migrate
 - **安全可靠**：具备基于角色的访问控制 (RBAC) 和严格的数据验证，安全性强。
 - **开发者友好 & REST API**：代码整洁，提供完善的 REST API，支持无头电商 (Headless) 和移动端 App。
 - **ERP 与集成就绪**：可轻松连接全球支付网关、物流系统以及主流 ERP 系统。
+![系统亮点](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-2-zh-CN.png)
 
 ---
 
